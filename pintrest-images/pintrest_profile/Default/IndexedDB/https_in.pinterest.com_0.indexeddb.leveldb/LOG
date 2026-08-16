@@ -1,0 +1,6 @@
+2026/05/27-04:14:02.951 26631 Reusing MANIFEST /home/parthak/Videos/autoYT/pintrest-images/pintrest_profile/Default/IndexedDB/https_in.pinterest.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/27-04:14:02.951 26631 Recovering log #3
+2026/05/27-04:14:02.963 26631 Reusing old log /home/parthak/Videos/autoYT/pintrest-images/pintrest_profile/Default/IndexedDB/https_in.pinterest.com_0.indexeddb.leveldb/000003.log 
+2026/05/27-04:17:47.809 26632 Level-0 table #5: started
+2026/05/27-04:17:47.914 26632 Level-0 table #5: 1765024 bytes OK
+2026/05/27-04:17:48.009 26632 Delete type=0 #3

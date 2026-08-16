@@ -1,0 +1,21 @@
+id,name,firstname,lastname,age,birth,nationality,height,weight,injured,photo,assists,goals,appearances
+83,A. Danjuma,Arnaut,Danjuma Adam Groeneveld,28,"{'date': '1997-01-31', 'place': 'Lagos', 'country': 'Nigeria'}",Netherlands,178,74,False,https://media.api-sports.io/football/players/83.png,0,,0
+105,F. Ballo-Touré,Fodé,Ballo-Touré,28,"{'date': '1997-01-03', 'place': 'Conflans-Sainte-Honorine', 'country': 'France'}",Senegal,182,70,False,https://media.api-sports.io/football/players/105.png,0,,0
+172,D. Alli,Bamidele Jermaine,Alli,29,"{'date': '1996-04-11', 'place': 'Milton Keynes', 'country': 'England'}",England,188,76,False,https://media.api-sports.io/football/players/172.png,0,,0
+2699,S. Ghoddos,Sayed Saman,Ghoddos,32,"{'date': '1993-09-06', 'place': 'Malmö', 'country': 'Sweden'}",Iran,175,79,False,https://media.api-sports.io/football/players/2699.png,0,,0
+18765,André Gomes,André Filipe,Tavares Gomes,32,"{'date': '1993-07-30', 'place': 'Grijó', 'country': 'Portugal'}",Portugal,188,84,False,https://media.api-sports.io/football/players/18765.png,0,,0
+18853,J. Riedewald,Jaïro Jocquim,Riedewald,29,"{'date': '1996-09-09', 'place': 'Haarlem', 'country': 'Netherlands'}",Netherlands,182 cm,79 kg,False,https://media.api-sports.io/football/players/18853.png,0,,0
+19073,B. Godfrey,Benjamin Matthew,Godfrey,27,"{'date': '1998-01-15', 'place': 'York', 'country': 'England'}",England,184,74,False,https://media.api-sports.io/football/players/19073.png,0,,0
+19145,T. Adarabioyo,Abdul-Nasir Oluwatosin,Oluwadoyinsolami Adarabioyo,28,"{'date': '1997-09-24', 'place': 'Manchester', 'country': 'England'}",England,196,80,False,https://media.api-sports.io/football/players/19145.png,0,,0
+19364,N. Maupay,Neal,Maupay,29,"{'date': '1996-08-14', 'place': 'Versailles', 'country': 'France'}",France,173,69,False,https://media.api-sports.io/football/players/19364.png,0,,0
+19657,M. Rodák,Marek,Rodák,29,"{'date': '1996-12-13', 'place': 'Košice', 'country': 'Slovakia'}",Slovakia,194,81,False,https://media.api-sports.io/football/players/19657.png,0,,0
+19744,K. Jackson,Kayden Pastel Dunn,Jackson,31,"{'date': '1994-02-22', 'place': 'Bradford', 'country': 'England'}",England,181,73,False,https://media.api-sports.io/football/players/19744.png,0,,0
+20224,A. Lonergan,Andrew Michael,Lonergan,42,"{'date': '1983-10-19', 'place': 'Preston', 'country': 'England'}",England,192,87,False,https://media.api-sports.io/football/players/20224.png,0,,0
+44803,D. Ball,Dominic Martin,Ball,30,"{'date': '1995-08-02', 'place': 'Welwyn Garden City', 'country': 'England'}",England,184,75,False,https://media.api-sports.io/football/players/44803.png,0,,0
+127605,N. Ferguson,Nathan Kirk-Patrick,Ferguson,24,"{'date': '2000-10-06', 'place': None, 'country': 'England'}",England,178 cm,74 kg,False,https://media.api-sports.io/football/players/127605.png,0,,0
+135775,Ansu Fati,Anssumane,Fati Vieira,23,"{'date': '2002-10-31', 'place': 'Bissau', 'country': 'Guinea-Bissau'}",Spain,178,66,False,https://media.api-sports.io/football/players/135775.png,0,,0
+138822,A. Broja,Armando,Broja,24,"{'date': '2001-09-10', 'place': 'Slough', 'country': 'England'}",Albania,191,83,False,https://media.api-sports.io/football/players/138822.png,0,,0
+153422,E. Brierley,Ethan Craig,Brierley,22,"{'date': '2003-11-23', 'place': 'Rochdale', 'country': 'England'}",England,168 cm,,False,https://media.api-sports.io/football/players/153422.png,0,,0
+153425,L. Dobbin,Lewis Norman,Dobbin,22,"{'date': '2003-01-03', 'place': None, 'country': 'England'}",England,175,71,False,https://media.api-sports.io/football/players/153425.png,0,,0
+284500,T. Iroegbunam,Timothy Emeka,Iroegbunam,22,"{'date': '2003-06-30', 'place': 'Birmingham', 'country': 'England'}",England,183,70,False,https://media.api-sports.io/football/players/284500.png,0,,0
+348263,C. Stewart,Cameron Jack,Stewart,22,"{'date': '2003-02-20', 'place': None, 'country': 'Northern Ireland'}",England,191 cm,,False,https://media.api-sports.io/football/players/348263.png,0,,0
